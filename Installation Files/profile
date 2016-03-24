@@ -1,0 +1,13 @@
+#VM_NAME=boot2docker-vm
+#VBM=VBoxManage
+
+#DOCKER_PORT=4443
+#SSH_HOST_PORT=2022
+
+#VM_DISK=~/.boot2docker/boot2docker.vmdk
+#VM_DISK_SIZE=40000
+
+#VM_MEM=1024
+
+#BOOT2DOCKER_ISO=~/.boot2docker/boot2docker.iso
+# 
